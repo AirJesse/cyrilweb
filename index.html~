@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>雾狸的个人主页 | BETA 0.1</title>
+    <!--引入-->
+    <link rel="stylesheet" type="text/css" href="css/jquery.pagepiling.css">
+    <link rel="stylesheet" type="text/css" href="css/my.css">
+    <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="js/jquery.pagepiling.js"></script>
+    <script type="text/javascript" src="js/my.js"></script>
+  </head>
+  <body>
+    <div id="pagepiling">
+      <div class="section center">
+        <div id="d1"><img id="me" src="img/me.png"></div>
+        <h1 id="name" class="one">陆嘉超</h1>
+        <p id="nickname">雾狸 | Cyril Lu</p>
+        <p id="subtitle">胸中自无火炎冰竞  眼前时有月到风来</p>
+        <h4>后端攻城师</h4>
+        <p><a href="mailto:me@foxlu.com" class="highlight">me@foxlu.com</a>
+
+    </div>
+    <div class="section">
+      <h1>More Pages are under construction</h1>
+    </div>
+  </div>
+</body>
+</html>
