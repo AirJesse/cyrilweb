@@ -1,0 +1,24 @@
+body{font-family: Lato, "Microsoft YaHei", sans-serif; font-weight: 400; font-size: 1.1em}
+h1 { font-size: 3.5em; margin: 0 0 0.5em 0; margin-top: 0; text-align: center;}
+h2 { font-size: 2em; margin: 0 0 0.2em 0; margin-top: 0 }
+h3 { font-size: 1.5em; margin: 0 0 0.1em 0; margin-top: 0 }
+h4 { font-size: 1.25em; margin: 0 0 0.1em 0; margin-top: 0 }
+h5 { font-size: 1.2em; margin: 0 0 0.1em 0; margin-top: 0 }
+h6 { font-size: 1.1em; margin: 0 0 0.1em 0; margin-top: 0 }
+p { font-size: 1.1em; margin: 0.5em 0;color: #aee2d9 }
+h1.one{text-shadow: 1px 2px #22c3aa, 2px 4px #aee2d9;}
+.section {color: #eef3f0;transition: 0.5s }
+
+#subtitle { margin: 1em 0 0.25em 0; color: #aee2d9 }
+#me { width: 236px; height: 236px;}
+#name {letter-spacing: 10px;padding-left: 10px;margin: 0.3em 0 0 0}
+#nickname{font-size: 1em;margin: 0 0 0 0;color:#FAFAD2;}
+#d1{width: 256px; height: 256px;overflow: hidden;display:inline-block; border: 10px solid #aee2d9;-webkit-border-radius: 50%; -moz-border-radius: 50%; -o-border-radius: 50%; border-radius: 50% ;overflow: hidden;}
+a {color: #008a75; text-decoration: none; transition: 0.5s }
+a:hover { color: #9f3 }
+a.highlight { color: #9f3 }
+a.highlight:hover { color: #008a75 }
+.center { text-align: center }
+
+
+* { box-sizing: border-box }
